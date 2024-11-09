@@ -19,3 +19,8 @@ https://github.com/Pooria90/EEG-Motor-Imagery-Analysis/blob/main/main.ipynb
 https://ieeexplore.ieee.org/abstract/document/7833732
 
 https://www.scielo.org.mx/scielo.php?pid=S0035-001X2022000400012&script=sci_arttext
+
+
+YOUTOUBE VIDEOS
+
+https://invidious.nerdvpn.de/watch?v=_BdBJOOqMes&list=PLtGXgNsNHqPTgP9wyR8pmy2EuM2ZGHU5Z Playlist where we show how to do a preprocessing and apply a machine learning algorithm to EEG data.
