@@ -13,3 +13,7 @@ Structure
 Input Resting EEG end normal EEG -> Preprocess -> Machine Learning algorithms
 
 
+
+----------TO TRY-------------
+Try to change the low_cut, maybe I can set it to 8 (exclude the theta waves)
+
