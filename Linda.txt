@@ -1,0 +1,10 @@
+#### 
+
+
+
+
+
+####
+Scegliere gli elettrodi.
+Come controllo potrei controllare i sensori occipitali per vedere se si attivano agni 4 secondi. Quindi con una frequenza di 0.25
+
