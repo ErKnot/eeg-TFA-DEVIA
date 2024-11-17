@@ -3,7 +3,7 @@ TUTORIAL
 
 https://neuraldatascience.io/intro.html Explication and tutorial on EEG preprocessing and analysis
 
-https://aath0.github.io/AlgorithmsNeuroscience/Tutorial_files/Introduction.html Tutorial on EEG Data Processing
+https://aath0.github.io/AlgorithmsNeuroscience/Tutorial_files/Introduction.html Tutorial on EEG Data Processing and Machine Learning
 
 https://labeling.ucsd.edu/tutorial/overview The goals of this website are (1) to help EEG researchers who use independent component analysis (ICA) to distinguish independent components (ICs) as brain or non-brain sources and (2) to collect a large number of crowd-sourced IC labels.
 
