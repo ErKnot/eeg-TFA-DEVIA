@@ -1,1 +1,8 @@
+----------IMPORTANT------------
+When creating the epochs, check if the beaseline correction is applyed simply adding the beaseline parameter or I need to
+use the method applay_baseline()
+
+
+--------------------
 Try creating the ICA using the first two EEG recordings, where the subject doesn't do anything. 
+
